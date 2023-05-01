@@ -9,5 +9,8 @@ public class Sample
 
 	{
 		System.out.println("sample program by framework dev");
+		
+		System.out.println("helo");
 	}
+	
 }
